@@ -1,0 +1,44 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.idea/
+*.ncb
+*.aps
+*.dbmdl
+*.opendb
+*.VC.VC.opendb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nugetprops
+*.nuget.targets
+
+# Publish output
+wwwroot/
+dist/
+out/
+publish/
+build/
+
+# Logs
+*.log
+
+# GitHub Pages artifacts
+gh-pages/
+
+# Others
+/.vscode/
+.DS_Store
+Thumbs.db
