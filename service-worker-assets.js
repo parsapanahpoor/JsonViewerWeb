@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "QfdQ6XZH",
+  "version": "pbTLhak3",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-vc9dMoE+IqoEiRALhDVViRfa35K+k9Xy1WmVujq35cE=",
+      "hash": "sha256-D0nSFzJ8eDmVIq8e2eYFTrD+wXziYDqSICnhN9jBXlw=",
       "url": "_framework/JsonViewerWeb.dll"
     },
     {
@@ -114,7 +114,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-sy/hfbOkcBJ6Ei9nRwgZVqVRYL4sI6p+Ce19ep/JkZQ=",
+      "hash": "sha256-81q3wVwlJr/oqQf2WEdbC+xJ7MxUrc5WeN7NAw4RVFA=",
       "url": "_framework/blazor.boot.json"
     },
     {
